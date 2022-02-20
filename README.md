@@ -1,7 +1,7 @@
 # Notable-Code-Samples
 Notable code samples, presented by Siert Groote for admission to the AI programme.
 
-A few notable code samples are presented here, listed below are quick descriptions of their use:
+A few notable code samples are presented here. Listed below are swift descriptions of their use:
 
 GUIModMenu.java:
  - Part of the Python Client project.
