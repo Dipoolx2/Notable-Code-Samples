@@ -1,5 +1,5 @@
 # Notable-Code-Samples
-Notable code samples, presented by Siert Groote to RUG for admission to the AI programme.
+Notable code samples, presented by Siert Groote for admission to the AI programme.
 
 A few notable code samples are presented here, listed below are quick descriptions of their use:
 
